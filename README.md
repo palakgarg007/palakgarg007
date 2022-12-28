@@ -1,7 +1,7 @@
 # Hi👋, I'm Palak
 
 ## 💫 About Me:
-🌱 I'm currently practicing Data Structures and Algorithms<br><br>🔭 I’m currently working on Web-Development<br><br>👯 I’m looking to collaborate in Hackathons and new Projects<br><br>💬 Ask me about Java<br><br>📫 How to reach me: gargpalak32@gmail.com<br><br>😀 Learn better skills and attain perfection in coding.
+🌱 I'm currently practicing Data Structures and Algorithms<br><br>🔭 I’m currently working on Web-Development<br><br>👯 I’m looking to collaborate in Hackathons and new Projects<br><br>💬 Talk to me about Java<br><br>📫 How to reach me: gargpalak32@gmail.com<br><br>😀 Learn better skills and attain perfection in coding.
 
 
 ## 🌐 Socials:
