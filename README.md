@@ -39,7 +39,8 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=palakgarg007&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=palakgarg007&amp;theme=dark&amp;hide_border=false" alt="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakgarg007&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakgarg007&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""> <br>
+  [Note: Top languages doesn't reflect experience or skill level , it's only a github metric of the languages I have the most code on github.]
 </p>
 
 <!-- <hr> -->
