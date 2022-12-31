@@ -1,6 +1,6 @@
 <h1 id="hi-i-m-palak">Hi👋, I&#39;m Palak</h1>
 
-<h2 id="-about-me-">💫 About Me:</h2>
+<h3 id="-about-me-">💫 About Me:</h3>
 
 <p>🌱 I&#39;m currently practicing Data Structures and Algorithms <br><br>
   🔭 I’m currently working on Web-Development <br><br>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion">
 </p>
 
-<h1 id="-github-stats-">📊 GitHub Stats:</h1>
+<h2 id="-github-stats-">📊 My GitHub Stats:</h2>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=palakgarg007&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
