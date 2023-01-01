@@ -1,6 +1,6 @@
 <h1 id="hi-i-m-palak">Hi👋, I&#39;m Palak</h1>
 
-<h3 id="-about-me-">💫 About Me:</h3>
+<h2 id="-about-me-">💫 About Me:</h2>
 
 <p>🌱 I&#39;m currently practicing Data Structures and Algorithms <br><br>
   🔭 I’m currently working on Web-Development <br><br>
@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/palak-garg-007/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<h1 id="-tech-stack-">💻 Tech Stack:</h1>
+<h2 id="-tech-stack-">💻 Tech Stack:</h2>
 
 <p>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> 
