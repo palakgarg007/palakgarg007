@@ -6,7 +6,7 @@
   🔭 I’m currently working on Web-Development <br><br>
   👯 I’m looking to collaborate in Hackathons and new Projects <br><br>
   💬 Talk to me about Java <br><br>
-  📫 How to reach me: gargpalak32@gmail.com <br><br>
+  📫 Reach me at: gargpalak32@gmail.com <br><br>
   😀 Learn better skills and attain perfection in coding.
 </p>
 
