@@ -10,7 +10,7 @@
   😀 Learn better skills and attain perfection in coding.
 </p>
 
-<h2 id="-socials-">🌐 Socials :</h2>
+<h2 id="-socials-">🌐 Socials:</h2>
 
 <p>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/palak-garg-007/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
