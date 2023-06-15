@@ -37,9 +37,9 @@
 <h2 id="-github-stats-">📊 My GitHub Stats:</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=palakgarg007&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=palakgarg007&amp;theme=dark&amp;hide_border=false" alt="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakgarg007&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=palakgarg007&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palakgarg007&amp;theme=dark&amp;hide_border=false" alt="">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakgarg007&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
 </p>
 
 <p style="font-size: 7px">
